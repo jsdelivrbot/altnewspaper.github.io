@@ -1,16 +1,16 @@
 @font-face {
       font-family: "ahamono-monospaced";
-      src: url("https://cdn.rawgit.com/paulo-marcondes/altnewspaper.github.io/master/ahamono-monospaced-webfont.eot");
-	src: url("https://cdn.rawgit.com/paulo-marcondes/altnewspaper.github.io/master/ahamono-monospaced-webfont.svg");
-	src: url("https://cdn.rawgit.com/paulo-marcondes/altnewspaper.github.io/master/ahamono-monospaced-webfont.ttf");
-	src: url("https://cdn.rawgit.com/paulo-marcondes/altnewspaper.github.io/master/ahamono-monospaced-webfont.woff");
+      src: url("https://cdn.jsdelivr.net/gh/paulo-marcondes/altnewspaper.github.io@master/ahamono-monospaced-webfont.eot");
+	src: url("https://cdn.jsdelivr.net/gh/paulo-marcondes/altnewspaper.github.io@master/ahamono-monospaced-webfont.svg");
+	src: url("https://cdn.jsdelivr.net/gh/paulo-marcondes/altnewspaper.github.io@master/ahamono-monospaced-webfont.ttf");
+	src: url("https://cdn.jsdelivr.net/gh/paulo-marcondes/altnewspaper.github.io@master/ahamono-monospaced-webfont.woff");
     }
 
 
 @font-face {
       font-family: "PublicoBanner-Bold";
-      src: url("https://cdn.rawgit.com/paulo-marcondes/altnewspaper.github.io/master/PublicoBanner-Bold.eot");
-	src: url("https://cdn.rawgit.com/paulo-marcondes/altnewspaper.github.io/master/PublicoBanner-Bold.svg");
-	src: url("https://cdn.rawgit.com/paulo-marcondes/altnewspaper.github.io/master/PublicoBanner-Bold.ttf");
-	src: url("https://cdn.rawgit.com/paulo-marcondes/altnewspaper.github.io/master/PublicoBanner-Bold.woff");
+      src: url("https://cdn.jsdelivr.net/gh/paulo-marcondes/altnewspaper.github.io@master/PublicoBanner-Bold.eot");
+	src: url("https://cdn.jsdelivr.net/gh/paulo-marcondes/altnewspaper.github.io@master/PublicoBanner-Bold.svg");
+	src: url("https://cdn.jsdelivr.net/gh/paulo-marcondes/altnewspaper.github.io@master/PublicoBanner-Bold.ttf");
+	src: url("https://cdn.jsdelivr.net/gh/paulo-marcondes/altnewspaper.github.io@master/PublicoBanner-Bold.woff");
     }
